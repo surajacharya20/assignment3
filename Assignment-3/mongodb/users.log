@@ -1,0 +1,16 @@
+{"level":"error","message":"error in getting the user list","timestamp":"2022-11-03T04:00:58.029Z"}
+{"level":"info","message":"retrived user list","timestamp":"2022-11-03T04:00:58.032Z"}
+{"level":"info","message":"checking","timestamp":"2022-11-03T04:14:10.599Z"}
+{"level":"info","message":"checking","timestamp":"2022-11-03T04:35:30.890Z"}
+{"level":"info","message":"checking","timestamp":"2022-11-03T04:36:27.288Z"}
+{"level":"error","message":"error in adding user","timestamp":"2022-11-03T04:36:27.353Z"}
+{"level":"info","message":"user added successfully","timestamp":"2022-11-03T04:36:27.354Z"}
+{"level":"info","message":"checking","timestamp":"2022-11-03T04:36:56.279Z"}
+{"level":"error","message":"error in adding user","timestamp":"2022-11-03T04:36:56.466Z"}
+{"level":"info","message":"user added successfully","timestamp":"2022-11-03T04:36:56.467Z"}
+{"level":"info","message":"checking","timestamp":"2022-11-03T04:37:02.705Z"}
+{"level":"error","message":"error in getting the user list","timestamp":"2022-11-03T04:37:18.081Z"}
+{"level":"info","message":"retrived user list","timestamp":"2022-11-03T04:37:18.084Z"}
+{"level":"info","message":"updated user successfully","timestamp":"2022-11-03T04:47:31.209Z"}
+{"level":"error","message":"error in getting the user list","timestamp":"2022-11-03T04:47:41.381Z"}
+{"level":"info","message":"retrived user list","timestamp":"2022-11-03T04:47:41.382Z"}
